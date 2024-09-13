@@ -1,11 +1,11 @@
 import subprocess
 import time
 import logging
-from aiogram import Bot
+from aiogram import Not 
 import asyncio
 
-API_TOKEN = 'TOKEN'
-ADMIN_ID = 'YOUR ID'
+API_TOKEN = '7151932171:AAEF0u2L0XTTm3kadqnGoNVZh_E6XGgynEQ'
+ADMIN_ID = '5503412983'
 MAX_RESTARTS = 5
 RESTART_PERIOD = 60  # Seconds
 
